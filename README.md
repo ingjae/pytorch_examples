@@ -1,5 +1,3 @@
-# pytorch_examples
-
 ## machine learning site map
 
 ### 정리자료
