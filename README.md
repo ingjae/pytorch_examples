@@ -1,5 +1,5 @@
 ## machine learning site map
-
+cnn 최고 https://cs231n.github.io/
 ### 정리자료
 Resnet		https://wolfy.tistory.com/243   
 convolution 연산 정리		https://gaussian37.github.io/dl-concept-covolution_operation/   
