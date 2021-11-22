@@ -1,12 +1,19 @@
 ## machine learning site map
 cnn 최고 https://cs231n.github.io/
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 ### 정리자료
-Resnet		https://wolfy.tistory.com/243   
-convolution 연산 정리		https://gaussian37.github.io/dl-concept-covolution_operation/   
-파이토치 논문 재구현		https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch   
-resnet  구현		https://deep-learning-study.tistory.com/534    
-cnn 설명 자료		https://glassboxmedicine.com/2020/08/03/convolutional-neural-networks-cnns-in-5-minutes/   
-파이토치 레퍼런스		https://subinium.github.io/pytorch-Tensor-Variable/   
+|제목|내용|설명|비고|
+|------|---|---|---|
+|Resnet		https://wolfy.tistory.com/243   
+|convolution 연산 정리		https://gaussian37.github.io/dl-concept-covolution_operation/   
+|파이토치 논문 재구현		https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch   
+|resnet  구현		https://deep-learning-study.tistory.com/534    
+|cnn 설명 자료		https://glassboxmedicine.com/2020/08/03/convolutional-neural-networks-cnns-in-5-minutes/   
+|파이토치 레퍼런스		https://subinium.github.io/pytorch-Tensor-Variable/   
 activation function	신경망의 출력을 결정하는 식 	https://subinium.github.io/introduction-to-activation/  
 loss function 		https://needjarvis.tistory.com/567   
 optimizer		http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html  
