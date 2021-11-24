@@ -1,5 +1,9 @@
 ## machine learning site map
-cnn 최고 https://cs231n.github.io/
+cnn 최고 https://cs231n.github.io/  
+https://gaussian37.github.io/dl-concept-quantization/  딥러닝의 Quantization (양자화)  
+
+ https://velog.io/@ganta/Optimization 딥러닝 부터  경량화 까지 설명됨 
+
 ### CNN 자료 
 |내용|링크|설명|비고|
 |------|---|---|---|
